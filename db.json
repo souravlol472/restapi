@@ -1,0 +1,74 @@
+{
+"healer": [
+    {
+      "lvl": "level 1",
+      "damage": 35,
+      "damage_attack":19,
+      "hitpoint": 500,
+      "cost": "5000 Elixir",
+      "research": "N/A",
+      "time": "N/A",
+      "lab": "N/A"
+    },
+    {
+      "lvl": "level 2",
+      "damage": 42,
+      "damage_attack":23,
+      "hitpoint": 600,
+      "cost": "6000 Elixir",
+      "research": "5,00,000 Elixir",
+      "time": "1d 12h",
+      "lab": "5"
+    },
+    {
+      "lvl": "level 3",
+      "damage": 55,
+      "damage_attack":30,
+      "hitpoint": 840,
+      "cost": "8000 Elixir",
+      "research": "10,00,000 Elixir",
+      "time": "2d 12h",
+      "lab": "6"
+    },
+    {
+      "lvl": "level 4",
+      "damage": 65,
+      "damage_attack":35,
+      "hitpoint": 1200,
+      "cost": "10000 Elixir",
+      "research": "30,00,000 Elixir",
+      "time": "4d",
+      "lab": "7"
+    },
+    {
+      "lvl": "level 5",
+      "damage": 72,
+      "damage_attack":48,
+      "hitpoint": 1500,
+      "cost": "14000 Elixir",
+      "research": "95,00,000 Elixir",
+      "time": "11d 20h",
+      "lab": "9"
+    },
+    {
+      "lvl": "level 6",
+      "damage": 72,
+      "damage_attack":56,
+      "hitpoint": 1600,
+      "cost": "17000 Elixir",
+      "research": "1,45,00,000 Elixir",
+      "time": "15d",
+      "lab": "11"
+    },
+    {
+      "lvl": "level 7(Max)",
+      "damage": 72,
+      "damage_attack":62,
+      "hitpoint": 1700,
+      "cost": "20000 Elixir",
+      "research": "1,70,00,000 Elixir",
+      "time": "17d",
+      "lab": "12"
+    }
+  ]
+  }
